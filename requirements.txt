@@ -1,4 +1,4 @@
-streamlit = "*"
-yfinance = "*"
-fbprophet = "*"
-plotly = "*"
+streamlit == "*"
+yfinance == "*"
+fbprophet == "*"
+plotly == "*"
