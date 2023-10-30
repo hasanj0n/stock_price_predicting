@@ -1,4 +1,4 @@
-streamlit == "*"
-yfinance == "*"
-fbprophet == "*"
-plotly == "*"
+streamlit == 1.28.0
+yfinance == 0.2.31
+fbprophet == 0.7.1
+plotly == 5.18.0
